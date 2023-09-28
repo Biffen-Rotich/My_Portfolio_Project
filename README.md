@@ -5,7 +5,9 @@ My Data Analytics Portfolio Project
 
 
 ##DATA USED
+
 dvtrental.tar Public dataset from Kaggle.com
+
 Analysis: Postgresql
 
 ###QUESTIONS 
